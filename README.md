@@ -1,17 +1,35 @@
-## Hi there 👋
+<a href="https://ahmedhossam231169.github.io/Ahmed-Hossam-Portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedhossam231169/ahmedhossam231169/main/dark.svg">
+    <img alt="Ahmed Hossam — Frontend Developer" src="https://raw.githubusercontent.com/ahmedhossam231169/ahmedhossam231169/main/light.svg">
+  </picture>
+</a>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ahmedhossam231169/ahmedhossam231169/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xmax.vnhakx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_mohammedinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hossam-843391366) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@panda_h1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ah7428839@gmail.com) 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedhossam231169&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=7C3AED" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam231169&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE" alt="Top Languages" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedhossam231169&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedhossam231169&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam231169&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam231169&theme=tokyonight&hide_border=true&background=0B1120&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="GitHub Streak" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmedhossam231169&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="mailto:ah7428839@gmail.com"><img src="https://img.shields.io/badge/Email-ah7428839%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ahmed-hossam-843391366"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hossam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ahmedhossam231169.github.io/Ahmed-Hossam-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-ahmedhossam231169.github.io-10B981?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://facebook.com/xmax.vnhakx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/ahmed_mohammedinn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@panda_h1"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+</p>
